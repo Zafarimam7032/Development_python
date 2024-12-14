@@ -1,0 +1,9 @@
+print("Hello World");
+print("this is first program i am writing and trying to lear python")
+
+print('another way is print data')
+
+print('''this is how we can find print data
+this is how we can print how multiple data
+this is how can get data
+''')
