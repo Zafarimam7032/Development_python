@@ -18,3 +18,6 @@ print(message.isdigit())
 print(message.isalpha())
 
 print(message.islower())
+
+print(message[0:10])
+print(message[0:10:2])
