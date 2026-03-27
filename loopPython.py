@@ -21,3 +21,26 @@ for row in list2:
   for element in row:
     print(element,end=' ')
   print()  
+
+
+tup=(12,23,12,45,78);
+
+for data in tup:
+  print(data)
+
+for i in range(4):
+  print("loop")
+else:
+  print("loop is finished")  
+
+
+for i in range(5):
+  if i==3:
+    break
+  print(i)      
+
+for i in range(8):
+  if i<7:
+    continue
+  print(i)  
+
